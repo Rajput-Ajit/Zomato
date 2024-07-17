@@ -1,0 +1,128 @@
+.main-div
+	{
+		height:600px;
+		width:100%;
+		background-color:red;
+		background-image: url(zomatocopy2.jpg);
+		background-size:100% 100%;
+		float:left;
+	}
+.upper-restaurant
+					{
+		color:white;
+		font-size:20px;
+		float:left;
+		margin-top:2%;
+		margin-left:60%;
+		opacity:0.7;
+	}
+.upper
+	{
+		color:white;
+		font-size:22px;
+		float:left;
+		margin-top:2%;
+		margin-left:4%;
+		opacity:0.7;
+	}
+.zomato-name
+	{
+		height:200px;
+		width:45%;
+						
+		float:left;
+		color:white;
+		margin-top:12%;
+						
+		margin-right:20%;
+		margin-left:28%;
+		text-align:center;
+	}
+.slogan
+		{
+			margin:0%;
+		}
+.title
+	{
+		height:50px;
+		width:100%;
+		
+		float:left;
+		margin-top:2%;
+		font-size:35px;
+		text-align:center;
+	}
+.assay
+	{
+		height:200px;
+		width:100%;
+		color:gray;
+		font-size:22px;
+		text-align:center;
+		margin-top:3%;
+		float:left;
+		
+	}	
+.locations
+	{
+		height:;
+		width:100%;
+		box-sizing:border-box;
+		padding-left:10%;
+		padding-right:10%;
+		float:left;
+	}
+.location-name
+	{
+		height:25px;
+		width:27%;
+		
+		float:left;
+		border-radius:10px;
+		font-size:22px;
+		padding:1%;
+		margin:2%;
+		box-shadow:0.1px 0.1px 5px 0.1px  gray;
+	}	
+.float
+	{
+		float:right;
+	}	
+.footer
+	{
+		height:550px;
+		width:100%;
+		background-color:#ECEEEE ;
+		float:left;
+		box-sizing:border-box;
+		padding-left:10%;
+		padding-right:10%;
+		padding-top:5%;
+	}
+.branding
+	{
+		height:14%;
+		width:100%;
+		float:left;
+		font-size:40px;
+		
+	}
+.detail
+	{
+		height:70%;
+		width:16%;
+		float:left;
+		margin-top:1%;
+		
+		margin-right:4%;
+	}	
+.download
+	{
+		background-color:black;
+		color:white;
+		font-size:22px;
+		padding:4%;
+		border-radius:10px;
+		width:80%;
+		margin:3%;
+	}	
